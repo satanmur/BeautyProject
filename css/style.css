@@ -60,7 +60,7 @@ body {
   margin: 30px 25px;
 }
 .contacts__button-grborder {
-  background-image: url("/img/buttons/grborder.svg");
+  background-image: url("../img/buttons/grborder.svg");
   background-repeat: no-repeat;
   background-color: white;
   width: 170px;
@@ -68,25 +68,25 @@ body {
 }
 
 .contacts-item__yt {
-  background-image: url(/img/icons/youtube.svg), url(/img/icons/Ellipse.svg);
+  background-image: url("../img/icons/youtube.svg"), url("../img/icons/Ellipse.svg");
   background-repeat: no-repeat;
   background-position: center, 50%;
   padding-top: 100px;
 }
 .contacts-item__vk {
-  background-image: url(/img/icons/VK.svg), url(/img/icons/Ellipse.svg);
+  background-image: url("../img/icons/VK.svg"), url("../img/icons/Ellipse.svg");
   background-repeat: no-repeat;
   background-position: center, 50%;
   padding-top: 100px;
 }
 .contacts-item__fb {
-  background-image: url(/img/icons/FB.png), url(/img/icons/Ellipse.svg);
+  background-image: url("../img/icons/FB.png"), url("../img/icons/Ellipse.svg");
   background-repeat: no-repeat;
   background-position: center, 50%;
   padding-top: 100px;
 }
 .contacts-item__ig {
-  background-image: url(/img/icons/instagram.svg), url(/img/icons/Ellipse.svg);
+  background-image: url("../img/icons/instagram.svg"), url("../img/icons/Ellipse.svg");
   background-repeat: no-repeat;
   background-position: center, 50%;
   padding-top: 100px;
@@ -158,7 +158,7 @@ body {
   display: -ms-flexbox;
   display: flex;
   height: 604px;
-  background-image: url(/img/main/Rectangle\ 2.svg);
+  background-image: url("../img/main/Rectangle 2.svg");
 }
 .promotion__title {
   font-weight: 700;
@@ -173,7 +173,7 @@ body {
   margin-bottom: 50px;
 }
 .promotion__button-wborder {
-  background-image: url("/img/buttons/wborder.svg");
+  background-image: url("../img/buttons/wborder.svg");
   background-repeat: no-repeat;
   width: 170px;
   height: 40px;
@@ -272,7 +272,7 @@ body {
   letter-spacing: 0.05em;
   color: #ffffff;
   background-color: rgba(0, 0, 0, 0);
-  background-image: url(/img/buttons/green.svg);
+  background-image: url("../img/buttons/green.svg");
   width: 130px;
   height: 35px;
 }
@@ -304,7 +304,7 @@ body {
   min-width: 450px;
 }
 .bonuces__content {
-  background-image: url(/img/bonuces/Rectangle\ 4.svg);
+  background-image: url("../img/bonuces/Rectangle 4.svg");
 }
 
 .gifts__block {
@@ -334,7 +334,7 @@ body {
   margin: 0 0 35px 40px;
   line-height: 16px;
   letter-spacing: 0.05em;
-  background-image: url(/img/buttons/input.svg);
+  background-image: url("../img/buttons/input.svg");
   max-width: 225px;
   height: 35px;
 }
@@ -348,7 +348,7 @@ body {
   padding-bottom: 35px;
 }
 .gifts__button-wborder {
-  background-image: url("/img/buttons/wborder.svg");
+  background-image: url("../img/buttons/wborder.svg");
   background-repeat: no-repeat;
   width: 170px;
   height: 40px;
